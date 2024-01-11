@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "allegro_image.h": "c",
+        "stdio.h": "c",
+        "allegro_primitives.h": "c",
+        "allegro_font.h": "c",
+        "allegro_acodec.h": "c",
+        "allegro_audio.h": "c",
+        "tiro.h": "c",
+        "inimigos.h": "c",
+        "geral.h": "c",
+        "exibe.h": "c",
+        "sprite.h": "c"
+    }
+}
